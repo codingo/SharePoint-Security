@@ -30,7 +30,11 @@ https://en.share-gate.com/blog/sharepoint-online-security-best-practices
 
 ## Powershell to find unique permissions per user (assigned directly)
 https://technet.microsoft.com/en-us/library/mt771884.aspx
+
 https://blogs.msdn.microsoft.com/rcormier/2012/10/23/how-to-determine-where-a-user-has-been-granted-access-in-sharepoint-2010/
+
 https://gallery.technet.microsoft.com/office/CSOM-Query-All-Unique-e60f2148
+
 https://archive.codeplex.com/?p=spuniquepermissions
+
 http://tiftomorrow.blogspot.com.au/2017/06/o365-export-sharepoint-online.html
