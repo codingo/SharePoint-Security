@@ -1,3 +1,4 @@
+# Source: http://www.sharepointdiary.com/2013/07/find-and-delete-orphaned-users-in-sharepoint-using-powershell.html
 Add-PSSnapin Microsoft.SharePoint.PowerShell -ErrorAction SilentlyContinue
  
 #Function to Check if a User exists in AD
