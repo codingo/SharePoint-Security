@@ -1,4 +1,5 @@
 # SharePoint-Security
+[![License](https://img.shields.io/badge/license-GPL3-_red.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html) [![Twitter](https://img.shields.io/badge/twitter-@codingo__-blue.svg)](https://twitter.com/codingo_)
 Repository Created for BSides Canberra talk on SharePoint Security
 
 ## SharePoint PowerShell Permissions Report for SharePoint 2010/2013
