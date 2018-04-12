@@ -136,8 +136,8 @@ Function Get-SPOAllSitePermisions ($url,$admin,$pass)
     } 
 } 
 #Required Parameters 
-$sSiteUrl = "https://thewebconsultants-admin.sharepoint.com/"  
-$sUserName = "user@thewebconsultants.com.au"  
+$sSiteUrl = ""  
+$sUserName = ""  
 #$sPassword = Read-Host -Prompt "Enter your password: " -AsSecureString   
 $sPassword=convertto-securestring "Password" -asplaintext -force 
 
